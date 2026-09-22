@@ -1,0 +1,9 @@
+{
+  "name": "consult",
+  "displayName": "Konzultáció — beszélgetős mód",
+  "version": "0.1.0",
+  "description": "Általános konzultációs mód bármely projekthez: Claude beszélget, kérdez, érvel és ellenvéleményt mond, de nem kezd kódolni vagy tervet írni, amíg nem kérik.",
+  "author": {
+    "name": "Bokó Zsolt"
+  }
+}

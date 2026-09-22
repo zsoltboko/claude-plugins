@@ -33,5 +33,5 @@ nélküli** alakban.
 ## Amihez ne nyúlj
 
 A `README.md` telepítési parancsai konkrét neveket tartalmaznak (`zsoltboko`,
-`hvac-plc`). Ha átnevezel valamit, a README-t is javítsd, különben a leírt parancsok
+`consult`, `hvac-plc`). Ha átnevezel valamit, a README-t is javítsd, különben a leírt parancsok
 nem működnek.

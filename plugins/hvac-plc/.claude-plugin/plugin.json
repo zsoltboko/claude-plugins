@@ -1,8 +1,8 @@
 {
   "name": "hvac-plc",
   "displayName": "HVAC PLC — közös konvenciók",
-  "version": "0.2.0",
-  "description": "Közös Structured Text konvenció, komponensterv-sablon és konzultációs output style CODESYS alapú hőközpont/HVAC PLC projektekhez.",
+  "version": "0.3.0",
+  "description": "Közös Structured Text konvenció és komponensterv-sablon CODESYS alapú hőközpont/HVAC PLC projektekhez.",
   "author": {
     "name": "Bokó Zsolt"
   }
