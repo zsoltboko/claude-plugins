@@ -1,0 +1,19 @@
+{
+  "name": "zsoltboko",
+  "owner": {
+    "name": "Bokó Zsolt",
+    "url": "https://github.com/zsoltboko"
+  },
+  "plugins": [
+    {
+      "name": "hvac-plc",
+      "source": "./plugins/hvac-plc",
+      "displayName": "HVAC PLC — közös konvenciók",
+      "description": "Közös Structured Text konvenció, komponensterv-sablon és konzultációs output style CODESYS alapú hőközpont/HVAC PLC projektekhez.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Bokó Zsolt"
+      }
+    }
+  ]
+}
